@@ -41,11 +41,19 @@ A complete 3D graphics implementation featuring geometric transformations, inter
 
 ## 📦 Project Structure
 src/
+
 ├── core/ # Transformation matrices
+
 ├── models/ # 3D object implementations
+
 │ ├── Casa3DJOGL.java # House model
+
 │ ├── Carro3DSimplificado.java # Vehicle model
+
 │ └── HexLaberintoJOGL.java # Maze system
+
 resources/
+
 ├── textures/ # Texture images
+
 └── shaders/ # GLSL shaders (optional)
